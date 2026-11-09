@@ -1,12 +1,12 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Zorian's Blog
+SEOTitle: Zorian's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huxpro.github.io" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+email: Zorian_Li@163.com  # 改成你自己的邮箱
+description: "这里是 @Zorian 的个人博客，记录我的生活与思考 | 探索更大的世界" 
+keyword: "Zorian, Zo的博客, 个人网站, 博客, 生活, 随笔" # 改成你的关键词
+url: "https://Zorian-li.github.io" 
+baseurl:  "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Publish posts or collection documents with a future date.
@@ -14,11 +14,11 @@ future: true
 
 
 # SNS settings
-RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+#RSS: false
+#weibo_username: huxpro
+#zhihu_username: huxpro
+#github_username: huxpro
+#twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -78,11 +78,11 @@ netease_comment: false
 
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huxpro.github.io
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huxpro.github.io
 
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "这里是 Zorian 的博客 <br> 记录生活与思考 <br> 分享日常" # 你的侧边栏简介
+sidebar-avatar: /img/avatar.png

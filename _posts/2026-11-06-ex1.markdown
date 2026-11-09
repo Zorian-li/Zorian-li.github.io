@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Light-Driven C-C Coupling for Targeted Synthesis of CH<sub>3</sub>COOH with Nearly 100% Selectivity from CO<sub>2</sub>"
+subtitle:   "催化剂初筛，促进C-C耦合"
+date:       2026-11-06 12:00:00
+author:     "Zorian's Blog"
+header-img: "img/bg-material.jpg"
+tags:
+    - 实验
+    - 
+    - 
+---
+#### **[文献分析]**
+
+这篇文献摘自焦星辰老师2024年发表的一篇Angewante，利用“**<font color=red>电荷不对称金属对位点</font>”**策略，去解决CO<sub>2</sub>光还原过程中C-C耦合步骤动力学缓慢的瓶颈，实现温和条件下，CO<sub>2</sub>→CH<sub>3</sub>COOH的转变。
+
+通过引入Pd原子，打破周围Co位点的电荷对称性，人为地构建出 “电荷不对称的钴对位点” ，用于促进C-C耦合。
+
+#### **[DFT分析]**
+
+在Pd-Co<sub>3</sub>O<sub>4</sub>表面，两个*COOH中间体耦合时，C-C键距离从1.54 Å缩短至1.52 Å，对应的反应能垒从0.77 eV大幅降至0.33 eV，降幅超过一半。这意味着C-C键的形成变得容易得多。——<font color=blue>过渡态搜索与能垒
+
+在CO<sub>2</sub>还原中，COOH中间体除了耦合，还可能加氢生成CO（一种副产物）。计算显示，在Pd-Co<sub>3</sub>O<sub>4</sub>上，该副反应的能垒为0.49 eV，高于纯Co<sub>3</sub>O<sub>4</sub>的0.41 eV。——<font color=blue>自由能
+
+#### **[性能表现]**
+
+乙酸生成速率：约 13.8 μmol g<sup>-1</sup> h<sup>-1</sup>。
+选择性：接近100%。
+
+#### **[实验步骤]**
+
+A、600 mg Co(acac)<sub>3</sub>、2.2 g CTAB加入60 mL乙醇和11 mL水混合溶液，搅拌后混合物180 ℃，24 h。乙醇、水离心收集
+
+B、320 ℃，30 min →atomic layers Co<sub>3</sub>O<sub>4</sub>
+
+C、200 mg产物分散在45 mL去离子水中，超声30 min。100 ℃加热5 mL（2mM）Pd/Ru溶液，保持1 h。收集样品60 ℃干燥。
+
+#### **[实验分析]**
+
+<div align="center">
+  <img src="/img/bg-walle.jpg" alt="" style="width: 120%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
+原来可以这样在网页中插入图片
+
